@@ -5,6 +5,10 @@ A decision tree is a decision support tool that uses a tree-like model of decisi
 
 Decision trees are commonly used in operations research, specifically in decision analysis, to help identify a strategy most likely to reach a goal, but are also a popular tool in machine learning.
 
+**HERE IS AN EXAMPLE HOW DECISION TREE WORKS**
+<p align="center">
+  <img src="Example/Decision Tree Working.gif">
+</p>
 ## Getting Started
 
 This is a Basic Machine learning Algorithm Decision Tree  built from scratch.With this you can understand how decision tree actually works. This decision tree splits the data using **Ginni Index** Soon We will be uploading Splitting based on Information Gain or Entropy.
