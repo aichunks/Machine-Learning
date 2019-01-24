@@ -13,7 +13,9 @@ is called the dependent variable. The factors that are used to predict the value
 ## Getting Started 
 This is a Basic Machine learning Algorithm Linear Regression built from scratch.With this you can understand how Linear work actually works
 
-
+<p align="center">
+  <img src="Example/Linear Regresion line.png">
+</p>
 
 
 ## Prerequisites
