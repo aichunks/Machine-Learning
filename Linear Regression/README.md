@@ -11,9 +11,7 @@ is called the dependent variable. The factors that are used to predict the value
 </p>
 
 ## Getting Started 
-
-
-
+This is a Basic Machine learning Algorithm Linear Regression built from scratch.With this you can understand how Linear work actually works
 
 
 
@@ -21,6 +19,7 @@ is called the dependent variable. The factors that are used to predict the value
 ## Prerequisites
 
 PYTHON
+MATPLOYLIB
 SKLEARN
 PANDAS
 NUMPY
