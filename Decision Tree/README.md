@@ -9,7 +9,9 @@ Decision trees are commonly used in operations research, specifically in decisio
 
 This is a Basic Machine learning Algorithm Decision Tree  built from scratch.With this you can understand how decision tree actually works. This decision tree splits the data using **Ginni Index** Soon We will be uploading Splitting based on Information Gain or Entropy.
 
-https://github.com/dummybytes/Machine-Learning/blob/master/Decision%20Tree/Example/Decision%20Tree.png
+<p align="center">
+  <img src="Example/Decision%20Tree.png">
+</p>
 
 ## Prerequisites
 
