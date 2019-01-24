@@ -21,13 +21,9 @@ This is a Basic Machine learning Algorithm Linear Regression built from scratch.
 ## Prerequisites
 
 PYTHON
-
 MATPLOYLIB
-
 SKLEARN
-
 PANDAS
-
 NUMPY
 
 
