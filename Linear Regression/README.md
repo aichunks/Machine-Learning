@@ -2,6 +2,8 @@
 ## Linear Regression
 Linear regression models are used to show or predict the relationship between two variables or factors. The factor that is being predicted
 is called the dependent variable. The factors that are used to predict the value of the dependent variable are called the independent variables.
+
+
 **HERE IS AN EXAMPLE HOW DECISION TREE WORKS**
 
 <p align="center">
