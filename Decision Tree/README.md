@@ -35,4 +35,4 @@ PIP INSTALL NUMPY
 
 ## Deployment
 
-**Just install the Prerequisites and you are good to go**
+**Clone the Repo and then Just install the Prerequisites and you are good to go**
