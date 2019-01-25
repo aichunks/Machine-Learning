@@ -8,7 +8,7 @@ k-NN is a type of instance-based learning, or lazy learning, where the function 
 Knn has different distance calculation approaches such as euclidean,manhattan,minkowski and hamming distance
 Knn has different algorithms bruteforce,KDD tree and ball tree.
 
-<center>***HERE IS AN EXAMPLE HOW KNN WORKS***</center>
+align="center"***HERE IS AN EXAMPLE HOW KNN WORKS***
 
 <p align="center">
   <img src="examples/knn_neigh.gif">
