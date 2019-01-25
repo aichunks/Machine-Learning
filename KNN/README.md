@@ -7,16 +7,17 @@ k-NN is a type of instance-based learning, or lazy learning, where the function 
 
 Knn has different distance calculation approaches such as euclidean,manhattan,minkowski and hamming distance
 Knn has different algorithms bruteforce,KDD tree and ball tree.
+
 **HERE IS AN EXAMPLE HOW KNN WORKS**
 
-
+algor
 <p align="center">
   <img src="examples/knn_neigh.gif">
 </p>
 
 ## Getting Started 
 
-This is a Basic Machine learning Algorithm Decision Tree  built from scratch.With this you can understand how KNN actually works. KNN WORKS 
+This is a Basic Machine learning Algorithm K-nearest-neighbour The lazy learner has different algorithms and distance calculation approaches in this we have used brute force with ecludian distance. Soon KDtree and BallTree will be updated.
 
 <p align="center">
   <img src="examples/kd.gif">
@@ -28,7 +29,7 @@ PYTHON
 SKLEARN
 PANDAS
 NUMPY
-
+matplotlib
 ```
 pip install scikit-learn
 PIP INSTALL PANDAS
