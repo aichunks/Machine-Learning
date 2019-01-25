@@ -10,7 +10,7 @@ In addition to performing linear classification, SVMs can efficiently perform a 
 </div>
 
 <p align="center">
-  <img src="examples/linearsvm.gif">
+  <img src="Examples/linearsvm.gif">
 </p>
 
 ## Getting Started 
