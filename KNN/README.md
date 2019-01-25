@@ -11,7 +11,7 @@ Knn has different algorithms bruteforce,KDD tree and ball tree.
 
 
 <p align="center">
-  <img src="knn_neigh.gif">
+  <img src="examples/knn_neigh.gif">
 </p>
 
 ## Getting Started 
@@ -19,7 +19,7 @@ Knn has different algorithms bruteforce,KDD tree and ball tree.
 This is a Basic Machine learning Algorithm Decision Tree  built from scratch.With this you can understand how KNN actually works. KNN WORKS 
 
 <p align="center">
-  <img src="Example/kd.gif">
+  <img src="examples/kd.gif">
 </p>
 
 ## Prerequisites
