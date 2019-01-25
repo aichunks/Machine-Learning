@@ -4,7 +4,7 @@ Linear regression models are used to show or predict the relationship between tw
 is called the dependent variable. The factors that are used to predict the value of the dependent variable are called the independent variables.
 
 
-**HERE IS AN EXAMPLE HOW DECISION TREE WORKS**
+**HERE IS AN EXAMPLE HOW LINEAR REGRESSION WORKS**
 
 <p align="center">
   <img src="Example/Linear Reg working.gif">
@@ -21,7 +21,7 @@ This is a Basic Machine learning Algorithm Linear Regression built from scratch.
 ## Prerequisites
 
 PYTHON
-MATPLOYLIB
+MATPLOTLIB
 SKLEARN
 PANDAS
 NUMPY
