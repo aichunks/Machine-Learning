@@ -10,7 +10,7 @@ Knn has different algorithms bruteforce,KDD tree and ball tree.
 
 <div align="center">
 <h2>HERE IS AN EXAMPLE HOW KNN WORKS</h2>
-</p>
+</div>
 
 <p align="center">
   <img src="examples/knn_neigh.gif">
