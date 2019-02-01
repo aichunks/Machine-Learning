@@ -10,7 +10,7 @@ The connections of the biological neuron are modeled as weights. A positive weig
 
 <p align="center">
   <img src="Examples/neurallearn.gif">
-</p>s
+</p>
 
 ## Getting Started 
 
