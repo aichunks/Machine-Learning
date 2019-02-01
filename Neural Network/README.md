@@ -9,8 +9,8 @@ The connections of the biological neuron are modeled as weights. A positive weig
 
 
 <p align="center">
-  <img src="Example/Decision Tree Working.gif">
-</p>
+  <img src="Example/neurallearn.gif">
+</p>s
 
 ## Getting Started 
 
