@@ -14,7 +14,7 @@ The connections of the biological neuron are modeled as weights. A positive weig
 
 ## Getting Started 
 
-This is a Basic Machine learning Algorithm Decision Tree  built from scratch.With this you can understand how decision tree actually works. This decision tree splits the data using **Ginni Index** Soon We will be uploading Splitting based on Information Gain or Entropy.
+This is a Basic Neural Network implemented from scratch only using numpy and matplotlib for plotting the curves and decision boundary.In the Jupyter file many layers, activation functions have also been shown which are implemented from scratch to.
 
 <p align="center">
   <img src="Example/Decision%20Tree.png">
@@ -28,7 +28,7 @@ PANDAS
 NUMPY
 
 ```
-pip install scikit-learn
+pip install scikit-learn   (for accuracy calculation and stuff)
 PIP INSTALL PANDAS
 PIP INSTALL NUMPY
 ```
