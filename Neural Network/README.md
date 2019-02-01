@@ -17,7 +17,7 @@ The connections of the biological neuron are modeled as weights. A positive weig
 This is a Basic Neural Network implemented from scratch only using numpy and matplotlib for plotting the curves and decision boundary.In the Jupyter file many layers, activation functions have also been shown which are implemented from scratch to.
 
 <p align="center">
-  <img src="Example/Decision%20Tree.png">
+  <img src="Examples/training.gif">
 </p>
 
 ## Prerequisites
